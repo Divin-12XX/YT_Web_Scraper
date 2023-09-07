@@ -1,2 +1,2 @@
 # YT_Web_Scraper
-Web Scraping and Data Analysis using Python 
+Data Analysis project. Web Scraping, Data Analsis & Visualization using Python.
