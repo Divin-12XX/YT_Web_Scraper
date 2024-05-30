@@ -1,3 +1,3 @@
-# YT_Web_Scraper
+# Insightify
 Data Analysis project. Web Scraping, Data Analysis & Visualization using Python.
 
