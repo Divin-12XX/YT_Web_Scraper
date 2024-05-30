@@ -1,3 +1,3 @@
 # Insightify
-Data Analysis project. Web Scraping, Data Analysis & Visualization using Python.
+Youtube channel metrics web scraping, analysis & visualization using Python.
 
